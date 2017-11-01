@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Almos_Telegram>
+      <version>0.1.0</version>
+    </Almos_Telegram>
+  </modules>
+  <global>
+    <helpers>
+      <telegram>
+        <class>Almos_Telegram_Helper</class>
+      </telegram>
+    </helpers>
+  </global>
+</config> 
